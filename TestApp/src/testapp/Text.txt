@@ -1,2 +1,3 @@
 Etwas Plaintext erweitert
 Und 'ne 2. Zeile dazu
+Hier die 3. Zeile im Branch "Text1"

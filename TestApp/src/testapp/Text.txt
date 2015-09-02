@@ -1,4 +1,4 @@
 Etwas Plaintext erweitert
 Änderung für die LstDispo
 Und 'ne 2. Zeile dazu
-Hier die 3. Zeile im Branch "Text1"
+Hier die 3. Zeile im Branch "Text1" abc
